@@ -625,7 +625,7 @@
    
     <string name="About">Solid Explorerについて</string>
     <string name="Author_version_and_changelog">開発者の情報、バージョン情報、変更履歴</string>
-    <string name="Copyright_text">Copyright 2011-2012 \nKrzysztof Glodowski</string>
+    <string name="Copyright_text">Copyright 2011-2014 \nKrzysztof Glodowski</string>
     <string name="Version">バージョン</string>
     <string name="Changelog">変更履歴</string>
     <string name="Whats_new">更新情報を表示します</string>
@@ -896,4 +896,17 @@
 		<string name="Install_chromecast_plugin">Chromecastプラグインのインストール</string>
 		<string name="Install_chromecast_summary">Chromecastでローカルやリモートの動画を再生しましょう!</string>
 		
+		<!--  v 1.5.9 -->
+		<string name="Kitkat_notice">SDカードのコンテンツを編集できません。これはGoogleによってAndroid 4.4で導入された外部ストレージ制限によるものです。 
+		    この制限を回避するには、\"sd fix\"アプリかXposedモジュールをGoogle Playなどでダウンロードしないといけません。また、root化が必須です。</string>
+		    
+		<!-- v 1.6.3 -->
+		<string name="sd_card_grant_first">この操作を完了するにはSolid ExplorerにSDカードへのアクセスを許可しないといけません。左のサイドバーでストレージを選び、下にある選択ボタンをタップしてください。ストレージのルートフォルダを開いていることを確認してください。</string>
+		<string name="sd_card_grant_next">選択したディレクトリは間違っています。左のサイドバーでストレージを選び、下にある選択ボタンをタップしてください。ストレージのルートフォルダを開いていることを確認してください。</string>
+		<string name="external_storage_permission">外部ストレージの権限</string>
+		<string name="grant">許可</string>
+		<string name="social_networks">ニュースをいち早く知りたいなら、Solid Explorerの開発をFacebook、TwitterやGoogle+でフォローしてください!</string>
+		<string name="follow_me">フォローする!</string>
+		<string name="follow_me_summary">Solid Explorerの最新情報を知りたい!</string>
+		<string name="follow_me_new_version">ユーザーの皆さんへ\n新しいバージョンのSolid Explorerのリリースが近づいています。マテリアルデザインに刷新され、将来的な開発を簡単にするプラグインの仕組みが導入される予定です。開発の最新情報やテスト版を試したければ、ぜひFacebook、TwitterやGoogle+でフォローしてください。ありがとうございます!</string>
 </resources>
